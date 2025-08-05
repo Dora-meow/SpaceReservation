@@ -95,8 +95,8 @@
 * 首頁比借用人的多了 `取消座位（無此座位）` 的圖示、帳號編號
 #### 新增自習室座位
 * 輸入完，按 `產生座位` 就會出現</br>
-   <img height="200" alt="螢幕擷取畫面 2025-08-05 144055" src="https://github.com/user-attachments/assets/cbd6db1c-b02e-4848-8a3b-8db6f37fc64e" />
-    <img height="200" alt="螢幕擷取畫面 2025-08-05 143521" src="https://github.com/user-attachments/assets/10b3eb74-7039-4279-a4f8-5c7ead129e0d" />
+   <img height="190" alt="螢幕擷取畫面 2025-08-05 144055" src="https://github.com/user-attachments/assets/cbd6db1c-b02e-4848-8a3b-8db6f37fc64e" />
+    <img height="190" alt="螢幕擷取畫面 2025-08-05 143521" src="https://github.com/user-attachments/assets/10b3eb74-7039-4279-a4f8-5c7ead129e0d" />
 
 座位點一次會設為有插座 (有插頭圖案的)，再點一次會取消那個座位 (白色有虛線的)，再點一次會復原回普通座位</br>
 (滑鼠移到座位上時顏色會變深)
