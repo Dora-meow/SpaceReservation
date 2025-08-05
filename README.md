@@ -88,8 +88,8 @@
 紀錄會由新到舊排
 <img width="1920" height="1080" alt="螢幕擷取畫面 2025-08-05 132708" src="https://github.com/user-attachments/assets/d560d57a-931b-4d8a-999c-79e4335d295c" />
 
-* 按紅色按鈕能取消預約</br>
-  <img height="300" alt="螢幕擷取畫面 2025-08-05 133712" src="https://github.com/user-attachments/assets/18043f61-c252-41d3-9aca-f943957b06f8" />
+* 按紅色按鈕能取消預約，成功會收到mail</br>
+  <img height="300" alt="螢幕擷取畫面 2025-08-05 133712" src="https://github.com/user-attachments/assets/18043f61-c252-41d3-9aca-f943957b06f8" /> <img height="300" alt="Screenshot_20250805-153421" src="https://github.com/user-attachments/assets/0b1a38ce-3e52-4a2b-811f-4a73ec94ef02" />
 
 ### 管理者
 * 首頁比借用人的多了 `取消座位（無此座位）` 的圖示、帳號編號
