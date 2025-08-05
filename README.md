@@ -125,16 +125,16 @@
 
 ## 如何安裝
 1. 下載XAMPP（[連結](https://www.apachefriends.org)），要勾選Apache、MySQL、PHP、phpMyAdmin
-2. 打開Apache跟MySQL
-  <img height="400" alt="螢幕擷取畫面 2025-08-05 104958" src="https://github.com/user-attachments/assets/8903da6e-308c-4052-82a9-5babb859725f" />
+2. 打開Apache跟MySQL</br>
+     <img height="400" alt="螢幕擷取畫面 2025-08-05 104958" src="https://github.com/user-attachments/assets/8903da6e-308c-4052-82a9-5babb859725f" />
 
-3. 移動到xampp中的htdocs，下載程式檔案到電腦本地端
+3. 移動到xampp中的htdocs，下載專案到電腦本地端
     ```
     cd C:\xampp\htdocs
     git clone https://github.com/Dora-meow/SpaceReservation.git SpaceReservation
     ```
     * 也可點進[https://github.com/Dora-meow/SpaceReservation](https://github.com/Dora-meow/SpaceReservation)
     按綠色的code按鈕下載壓縮檔，解壓縮後連同資料夾放入htdocs
-
+4. 進 [http://localhost/phpmyadmin](http://localhost/phpmyadmin) 新增名字為 `labdemo` 的資料庫，點進去按 `匯入` 把 `SpaceReservation` 中的 `labdemos.sql` 匯入
 4. 用瀏覽器打開網站 [http://localhost/labdemo/login.php](http://localhost/labdemo/login.php)</br>
 (在還沒登入前不管先點進哪個頁面都會跳到這裡)
