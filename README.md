@@ -40,7 +40,7 @@
 * 按眼睛能顯示密碼</br>
     <img width="400" height="233" alt="image" src="https://github.com/user-attachments/assets/3da42788-470a-4a8c-8033-eaf7086aec5e" />
 
-&nbsp;&nbsp; - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - -
+&nbsp;&nbsp; - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 #### 註冊帳號
 註冊成功後會跳到登入頁面 (勾選 `管理員` 登入後才會出現管理員的功能選單)
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a35dfa8f-0d33-4408-ba27-c5787045521b" />
