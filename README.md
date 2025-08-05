@@ -46,9 +46,9 @@
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a35dfa8f-0d33-4408-ba27-c5787045521b" />
 
 * 如果空白會出現提示，email格式不對、兩個密碼不一樣、註冊帳號已存在也會</br>
-    <img height="100" alt="image" src="https://github.com/user-attachments/assets/e475e79e-b2fc-4e87-92ac-3ad5a6661faf" />
-  <img height="100"  alt="image" src="https://github.com/user-attachments/assets/59da2a97-03a5-4087-9b75-673d9bb73a58" />
-  <img height="100" alt="image" src="https://github.com/user-attachments/assets/050b2ed2-53d8-4adf-8081-fc856d40be86" />
+    <img height="90" alt="image" src="https://github.com/user-attachments/assets/e475e79e-b2fc-4e87-92ac-3ad5a6661faf" />
+  <img height="90"  alt="image" src="https://github.com/user-attachments/assets/59da2a97-03a5-4087-9b75-673d9bb73a58" />
+  <img height="90" alt="image" src="https://github.com/user-attachments/assets/050b2ed2-53d8-4adf-8081-fc856d40be86" />
 
 &nbsp;&nbsp; - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 #### 登出
@@ -59,7 +59,7 @@
 #### 首頁
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c064854e-fb9d-41eb-ac7d-4ca048d8b718" />
 
-&nbsp;&nbsp; - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - -
+&nbsp;&nbsp; - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 #### 查詢座位
 紅色是已被預約、灰色是不開放、藍色是空座位、插頭符號代表有插座
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e299dcb7-47ae-430e-a800-288c7814337b" />
