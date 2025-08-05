@@ -64,7 +64,7 @@
 紅色是已被預約、灰色是不開放、藍色是空座位、插頭符號代表有插座
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e299dcb7-47ae-430e-a800-288c7814337b" />
 
-&nbsp;&nbsp; - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - -
+&nbsp;&nbsp; - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 #### 預約 (只有藍色座位可選)</br>
 <img width="1920" height="1080" alt="螢幕擷取畫面 2025-08-05 123729" src="https://github.com/user-attachments/assets/477d4540-38ed-4797-908a-4cbce53b01b3" />
 
@@ -74,15 +74,15 @@
 
 * 點選座位後確認，預約成功座位會變紅色，收到mail</br>
   <p>
-    <img height="130" align="top" alt="圖1" src="https://github.com/user-attachments/assets/bf8730c3-700a-464e-876b-db319a2cbef5" />
-    <img height="130" align="top" alt="圖2" src="https://github.com/user-attachments/assets/74dcfae5-f22f-4b10-8c06-e4d3132e8b9c" />
-    <img height="350" align="top" alt="圖3" src="https://github.com/user-attachments/assets/7974f1e2-6200-4f86-adcc-e8fb637a8ab9" />
+    <img height="120" align="top" alt="圖1" src="https://github.com/user-attachments/assets/bf8730c3-700a-464e-876b-db319a2cbef5" />
+    <img height="120" align="top" alt="圖2" src="https://github.com/user-attachments/assets/74dcfae5-f22f-4b10-8c06-e4d3132e8b9c" />
+    <img height="320" align="top" alt="圖3" src="https://github.com/user-attachments/assets/7974f1e2-6200-4f86-adcc-e8fb637a8ab9" />
   </p>
 
 * 如果同日期同時段已有預約就不能再預約 (黃色座位是使用者這次選的)</br>
   <img height="400" alt="螢幕擷取畫面 2025-08-05 124048" src="https://github.com/user-attachments/assets/5a7b4b99-8d7a-48f6-9a3b-642b6d7362aa" />
 
-&nbsp;&nbsp; - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - -
+&nbsp;&nbsp; - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 #### 查詢/取消預約紀錄
 可依日期、時段、教室來查，沒輸入的項目就不限制，全部印出來</br>
 紀錄會由新到舊排
@@ -102,17 +102,17 @@
 (滑鼠移到座位上時顏色會變深)
 <img width="1920" height="1080" alt="螢幕擷取畫面 2025-08-05 143611" src="https://github.com/user-attachments/assets/2f361a1c-eccf-4bdf-8412-0e44f913aadc" />
 
-&nbsp;&nbsp; - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - -
+&nbsp;&nbsp; - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 #### 查詢/修改座位
 只能取消或新增插座
 <img width="1920" height="1080" alt="螢幕擷取畫面 2025-08-05 150126" src="https://github.com/user-attachments/assets/3b87be77-7f1a-49e3-baf4-eae42a650558" />
 
-&nbsp;&nbsp; - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - -
+&nbsp;&nbsp; - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 #### 查詢預約紀錄
 比借用人的多了搜尋 `使用者` 的欄位，不能取消預約
 <img width="1920" height="1080" alt="螢幕擷取畫面 2025-08-05 150110" src="https://github.com/user-attachments/assets/a42a2219-de75-4551-9f72-f51264f927bd" />
 
-&nbsp;&nbsp; - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - -
+&nbsp;&nbsp; - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 #### 不開放日期
 可一次選擇多個座位 (深藍色是被選到的)，設定完後按儲存，成功會有提示視窗
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/aef7723b-f1b1-469a-b32a-44ee220080ef" />
@@ -120,8 +120,8 @@
 ### 其他
 #### 下拉式選單
 把頁面縮小就會出現</br>
-<img height="350" alt="螢幕擷取畫面 2025-08-05 141935" src="https://github.com/user-attachments/assets/d045b6d8-ae95-45c9-a7bd-3c51bfb7ea49" /> 
-<img height="350" alt="螢幕擷取畫面 2025-08-05 141958" src="https://github.com/user-attachments/assets/7971711a-fd9c-4f3c-9c06-620131a23003" />
+<img height="300" alt="螢幕擷取畫面 2025-08-05 141935" src="https://github.com/user-attachments/assets/d045b6d8-ae95-45c9-a7bd-3c51bfb7ea49" /> 
+<img height="300" alt="螢幕擷取畫面 2025-08-05 141958" src="https://github.com/user-attachments/assets/7971711a-fd9c-4f3c-9c06-620131a23003" />
 
 ## 如何安裝
 1. 下載XAMPP（[連結](https://www.apachefriends.org)），要勾選Apache、MySQL、PHP、phpMyAdmin
